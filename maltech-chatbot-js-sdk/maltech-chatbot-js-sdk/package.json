@@ -1,0 +1,10 @@
+{
+  "name": "@maltech/chatbot-js-sdk",
+  "version": "1.0.0",
+  "description": "Reusable JavaScript SDK for MALtech AI Chatbot backend",
+  "type": "module",
+  "main": "src/index.js",
+  "keywords": ["chatbot", "sdk", "ai", "api-client"],
+  "author": "Your Name",
+  "license": "MIT"
+}
